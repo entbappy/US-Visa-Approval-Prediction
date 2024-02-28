@@ -37,7 +37,7 @@ pip install -r requirements.txt
 3. artifact_entity
 4. conponent
 5. pipeline
-6. app.py
+6. app.py / demo.py
 
 
 ### Export the  environment variable
